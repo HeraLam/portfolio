@@ -7,6 +7,6 @@ This portfolio page applying the core skills I've recently learned: flexbox, med
 Its show my name and links to sections about Me, My work, and how to contact me.
 
 Check link below :
-
+https://heralam.github.io/portfolio/
 
 ![portfolio demo](./images/portfo.jpg)
